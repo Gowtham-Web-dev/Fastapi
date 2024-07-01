@@ -29,7 +29,8 @@ alembic upgrade head
 ```
 ## Usage
 
-**Creating a New Migration**
+** Creating a New Migration **
+
 To create a new migration script manually:
 
 ```bash
@@ -43,6 +44,6 @@ To apply pending migrations to your database:
 
 alembic upgrade head
 ```
-##Documentation
+## Documentation
 For detailed documentation and usage instructions, please visit the Alembic Documentation.
 
