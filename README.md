@@ -43,6 +43,6 @@ To apply pending migrations to your database:
 
 alembic upgrade head
 ```
-**Documentation**
+##Documentation
 For detailed documentation and usage instructions, please visit the Alembic Documentation.
 
